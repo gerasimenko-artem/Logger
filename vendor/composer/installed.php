@@ -3,7 +3,7 @@
         'name' => 'artem-gerasimenko/logger',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'efe26aa7cda3e6fdc32d6dca386b7d4a9a41028e',
+        'reference' => 'dd75f81fad7ff75cfb2b6c0d190482f7e972c97f',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'artem-gerasimenko/logger' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'efe26aa7cda3e6fdc32d6dca386b7d4a9a41028e',
+            'reference' => 'dd75f81fad7ff75cfb2b6c0d190482f7e972c97f',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
