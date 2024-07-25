@@ -2,6 +2,14 @@
   "name": "artem-gerasimenko/logger",
   "description": "A PSR-3 compliant logger package",
   "type": "library",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "gerasimenko-artem",
+      "email": "gerasimenko3452@gmail.com"
+    }
+  ],
   "require": {
     "psr/log": "^1.1"
   },
